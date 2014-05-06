@@ -1,6 +1,6 @@
 # windows-1255 [![Build status](https://travis-ci.org/mathiasbynens/windows-1255.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1255) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1255.svg)](https://gemnasium.com/mathiasbynens/windows-1255)
 
-_windows-1255_ is robust JavaScript implementation of [the windows-1255 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1255).
+_windows-1255_ is a robust JavaScript implementation of [the windows-1255 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1255).
 
 This encoding is known under the following names: cp1255, windows-1255, x-cp1255, and x-cp1255.
 
