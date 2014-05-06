@@ -2,7 +2,7 @@
 
 _windows-1255_ is a robust JavaScript implementation of [the windows-1255 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1255).
 
-This encoding is known under the following names: cp1255, windows-1255, x-cp1255, and x-cp1255.
+This encoding is known under the following names: cp1255, windows-1255, and x-cp1255.
 
 ## Installation
 
