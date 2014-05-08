@@ -48,10 +48,10 @@ Using an AMD loader like [RequireJS](http://requirejs.org/):
 require(
   {
     'paths': {
-      'windows1255': 'path/to/windows1255'
+      'windows-1255': 'path/to/windows-1255'
     }
   },
-  ['windows1255'],
+  ['windows-1255'],
   function(windows1255) {
     console.log(windows1255);
   }
