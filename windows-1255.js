@@ -1,4 +1,4 @@
-/*! https://mths.be/windows-1255 v1.0.1 by @mathias | MIT license */
+/*! https://mths.be/windows-1255 v1.0.2 by @mathias | MIT license */
 ;(function() {
 
 	var object = {};
@@ -104,7 +104,7 @@
 			'windows-1255',
 			'x-cp1255'
 		],
-		version: '1.0.1',
+		version: '1.0.2',
 	};
 
 	module.exports = windows1255;
