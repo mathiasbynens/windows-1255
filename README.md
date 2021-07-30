@@ -12,23 +12,15 @@ Via [npm](https://www.npmjs.com/):
 npm install windows-1255
 ```
 
-In a browser:
-
-```html
-<script src="windows-1255.js"></script>
-```
-
-In [Node.js](https://nodejs.org/):
+In a browser or in [Node.js](https://nodejs.org/):
 
 ```js
-const windows1255 = require('windows-1255');
+import {encode, decode, labels} from 'windows-1255';
+// or…
+import * as windows1255 from 'windows-1255';
 ```
 
 ## API
-
-### `windows1255.version`
-
-A string representing the semantic version number.
 
 ### `windows1255.labels`
 
